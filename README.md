@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter integrating product design using Adobe XD for beautiful user interface. 
 - ⚡ Fun fact: I love reading and meeting people. 
 
-- 📫 How to reach me: 
+- 📫 How to reach me: <br>
        On Instagram: https://www.instagram.com/tosinezekiel8/ <br>
        On Behance: https://www.behance.net/festusezekiel
 
