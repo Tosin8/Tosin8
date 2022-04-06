@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 <br>
+Welcome to my colorful world, am Tosin Ezekiel a <b>Unicorn Developer</b>, ( develop in flutter / design in Adobe XD ). 
 - 🔭 I’m currently working on a long term project for a client. 
 - 🌱 I’m currently learning Flutter integrating product design using Adobe XD for beautiful user interface. 
 - ⚡ Fun fact: I love reading and meeting people. 
