@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I love reading and meeting people. 
 
 - 📫 How to reach me: 
-       On Instagram: https://www.instagram.com/tosinezekiel8/
+       On Instagram: https://www.instagram.com/tosinezekiel8/ <br>
        On Behance: https://www.behance.net/festusezekiel
 
 
