@@ -5,8 +5,8 @@
 
 - 📫 How to reach me: <br>
      
-       Check my social media accounts: 
-       https://linktr.ee/Tosin8
+   Check my social media accounts: <br>
+   https://linktr.ee/Tosin8
 
 
 <!--
