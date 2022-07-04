@@ -6,6 +6,8 @@
 - 📫 How to reach me: <br>
        On Instagram: https://www.instagram.com/tosinezekiel8/ <br>
        On Behance: https://www.behance.net/festusezekiel
+       Check my social media accounts: 
+       https://linktr.ee/Tosin8
 
 
 <!--
