@@ -1,4 +1,4 @@
-### Hi there 👋  am Tosin Ezekiel a <b>Flutter Developer
+Hi there 👋  am Tosin Ezekiel a <b>Flutter Developer
 - 🔭 I’m currently working on a long term project forfor<< a client. 
 - 🌱 I’m currently learning Flutter integrating product dbresign using Adobe XD for beautiful user interface. 
 - ⚡ Fun fact: I love reading and meeting people. 
@@ -8,10 +8,11 @@
    Check my social media accounts: <br>
    https://linktr.ee/Tosin8
      
-   Softwares <br>
+   Tools<br>
    
-   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
+   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) <br>
+   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)<br>
+   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
      
    Education <br>
      
@@ -21,9 +22,8 @@
    Forums <br>
     ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
      
-   Framework<br>
-    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-     
+   
+    
 
 <!--
 **Tosin8/Tosin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
