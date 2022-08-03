@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
+
+
+<a href="https://app.daily.dev/Tosin8"><img src="https://api.daily.dev/devcards/cafa36fc0f5a42eaa9813a7658adb908.png?r=29z" width="400" alt="Tosin Ezekiel's Dev Card"/></a>
