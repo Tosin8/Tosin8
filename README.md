@@ -30,9 +30,7 @@ Hi there 👋  am Tosin Ezekiel a <b>Flutter Developer
    <br> 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tosin8&theme=highcontrast&show_icons=true&count_private=true)
 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin8&layout=compact)](https://github.com/Tosin8/github-readme-stats)
-    
+
 
 
 <!--
