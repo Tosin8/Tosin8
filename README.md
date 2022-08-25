@@ -33,11 +33,7 @@ Hi there 👋  am Tosin Ezekiel a <b>Flutter Developer
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin8&layout=compact)](https://github.com/Tosin8/github-readme-stats)
     
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tosin8&repo=github-readme-stats)](https://github.com/Tosin8/github-readme-stats)
 
-<br>
-https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin8&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117
 
 <!--
 **Tosin8/Tosin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
