@@ -37,10 +37,6 @@ Hi there 👋  am Tosin Ezekiel a <b>Flutter Developer
    <br> 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tosin8&theme=highcontrast&show_icons=true&count_private=true)    [![GitHub Streak](https://streak-stats.demolab.com/?user=Tosin8&theme=highcontrast)](https://git.io/streak-stats)
      
-     
-    
-
-     <br>
      ![github graph](https://activity-graph.herokuapp.com/graph?username=Tosin8&theme=react-dark)
 
 
