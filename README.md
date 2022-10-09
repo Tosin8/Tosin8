@@ -1,6 +1,6 @@
 Hi there 👋  am Tosin Ezekiel a <b>Flutter Developer
 - 🔭 I’m currently working on a long term project for a client. 
-- 🌱 I’m currently learning Flutter integrating product dbresign using Adobe XD for beautiful user interface. 
+- 🌱 I’m currently learning Flutter integrating product design using Adobe XD for beautiful user interface. 
 - ⚡ Fun fact: I love science and meeting people. 
 
      
