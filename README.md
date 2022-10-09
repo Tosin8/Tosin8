@@ -35,7 +35,7 @@ Hi there 👋  am Tosin Ezekiel a <b>Flutter Developer
     ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
      
    <br> 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Tosin8&theme=highcontrast&show_icons=true&count_private=true)    [![GitHub Streak](https://streak-stats.demolab.com/?user=Tosin8&theme=dark)](https://git.io/streak-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Tosin8&theme=highcontrast&show_icons=true&count_private=true)    [![GitHub Streak](https://streak-stats.demolab.com/?user=Tosin8&theme=highcontrast)](https://git.io/streak-stats)
      
      
     
