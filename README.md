@@ -9,7 +9,8 @@ Hi there 👋  am Tosin Ezekiel a <b>Flutter Developer
    Check my social media accounts: <br>
    https://linktr.ee/Tosin8
      
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tosin8&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tosin8&repo=github-readme-stats)](https://github.com/Tosin8/github-readme-stats)
+     <br>
      Tech Stack I work with <br>
      
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)<br>
