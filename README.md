@@ -1,4 +1,6 @@
 Hi there 👋  am Tosin Ezekiel a <b>Flutter Developer
+     
+I learn flutter development
 - 🔭 I’m currently on intense focus
 - 🌱 
 - ⚡ Fun fact: I love science and meeting people. 
@@ -10,7 +12,7 @@ Hi there 👋  am Tosin Ezekiel a <b>Flutter Developer
    https://linktr.ee/Tosin8
      
      <br>
-     Tech Stack I work with <br>
+     Languages,Framework,Tools I work with <br>
      
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)<br>
    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) <br>
@@ -19,7 +21,7 @@ Hi there 👋  am Tosin Ezekiel a <b>Flutter Developer
    ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
      
     
-   Tools<br>
+   Softwares <br>
    
    ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) <br>
   
