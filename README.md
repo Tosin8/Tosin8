@@ -53,6 +53,9 @@ At night, I switch into my creator mode - spreading knowledge about tips, tricks
 
 <codersrank-timeline type="technologies" username="tosin8"></codersrank-timeline>
 
+<br>
+<codersrank-work-experience username="tosin8"></codersrank-work-experience>
+
 
 
 <!--
