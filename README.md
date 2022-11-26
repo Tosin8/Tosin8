@@ -49,6 +49,9 @@ At night, I switch into my creator mode - spreading knowledge about tips, tricks
    <br> 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tosin8&theme=highcontrast&show_icons=true&count_private=true)    [![GitHub Streak](https://streak-stats.demolab.com/?user=Tosin8&theme=highcontrast)](https://git.io/streak-stats)    ![github graph](https://activity-graph.herokuapp.com/graph?username=Tosin8&theme=react-dark)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
+<br>
+
+<codersrank-timeline type="technologies" username="Tosin8"></codersrank-timeline>
 
 
 
