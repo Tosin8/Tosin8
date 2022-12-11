@@ -16,7 +16,7 @@ At night, I switch into my creator mode - spreading knowledge about tips, tricks
      
 - 📫 How to reach me: <br>
      
-   Check my social media accounts: <br>
+   Check my portfolio accounts: <br>
    https://linktr.ee/Tosin8
      
      <br>
