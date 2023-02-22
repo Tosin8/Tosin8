@@ -1,8 +1,8 @@
 Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+result+driven+person;I+am+a+good+Team+Player;I+am+focus+driven)](https://git.io/typing-svg)
 
-I'm Tosin Ezekiel, I am currently becoming a flutter software engineer during the day. 
-At night, I switch into my creator mode - spreading knowledge about tips, tricks on daily computing , tech business, Internet of Things and Machine Learning. 
+I'm Tosin Ezekiel, a flutter developer during the day. 
+At night, I switch into my creator mode - creating content videos 
 
 <hr>
 <b> A quick introduction </br>
