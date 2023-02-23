@@ -46,11 +46,7 @@ At night, I switch into my creator mode - creating content videos
      
     ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
     
-    <br>
-    https://www.codewars.com/users/Tosin8/badges/large
-    
   
-   
    <br> 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tosin8&theme=highcontrast&show_icons=true&count_private=true)    [![GitHub Streak](https://streak-stats.demolab.com/?user=Tosin8&theme=highcontrast)](https://git.io/streak-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
