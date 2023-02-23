@@ -46,6 +46,9 @@ At night, I switch into my creator mode - creating content videos
      
     ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
     
+    <br>
+    https://www.codewars.com/users/Tosin8/badges/large
+    
   
    
    <br> 
