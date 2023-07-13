@@ -1,13 +1,13 @@
-Hi there 👋 
+Hi there, 👋 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+result+driven+person;I+am+a+good+Team+Player;I+am+focus+driven)](https://git.io/typing-svg)
 
-I'm Tosin Ezekiel, a flutter developer during the day. 
-At night, I switch into my creator mode - creating content videos 
+I'm Tosin Ezekiel, a Flutter developer during the day. 
+At night, I switch into my creator mode, creating videos 
 
 <hr>
 <b> A quick introduction </br>
      
-🔭 I’m currently on intense focus on building digital products for flutter framework mastery
+🔭 I’m currently intensely focused on building digital products with flutter framework mastery
 - 🌱 
 - ⚡ Fun fact: I love science and meeting people. 
 
@@ -20,7 +20,7 @@ At night, I switch into my creator mode - creating content videos
    https://linktr.ee/Tosin8
      
      <br>
-     Languages,Framework,Tools I work with <br>
+     Languages, Framework, Tools I work with <br>
      
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
