@@ -4,7 +4,8 @@ Hi there, 👋
 I'm Tosin Ezekiel, a Flutter developer during the day. 
 At night, I switch into my creator mode, creating videos 
 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<br><br>
 
 <hr>
 <b> A quick introduction </br>
