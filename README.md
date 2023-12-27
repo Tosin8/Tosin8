@@ -49,7 +49,7 @@ At night, I switch into my creator mode, creating videos
     
   
    <br> 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Tosin8&theme=highcontrast&show_icons=true&count_private=true)    [![GitHub Streak](https://streak-stats.demolab.com/?user=Tosin8&theme=highcontrast)](https://git.io/streak-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=Tosin8&theme=highcontrast&show_icons=true&count_private=true)    [![GitHub Streak](https://streak-stats.demolab.com/?user=Tosin8&theme=highcontrast)](https://git.io/streak-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)         [![Tosin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tosin8&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/tosin8/github-readme-activity-graph)
 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tosin8)
