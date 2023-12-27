@@ -3,7 +3,7 @@ Hi there, <img src="https://user-images.githubusercontent.com/74038190/214644152
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+result+driven+person;I+am+a+good+Team+Player;I+am+focus+driven)](https://git.io/typing-svg)
 
-I'm Tosin Ezekiel, a Flutter developer during the day. 
+I'm Tosin Ezekiel, a flutter mobile developer during the day. 
 At night, I switch into my creator mode, creating videos 
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
