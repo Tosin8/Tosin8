@@ -4,7 +4,8 @@ Hi there, 👋
 I'm Tosin Ezekiel, a Flutter developer during the day. 
 At night, I switch into my creator mode, creating videos 
 
-<br> ![coding](https://github.com/Tosin8/Tosin8/assets/23019300/60e20937-0452-4c19-9dcf-9d2fde22c305)
+<br> 
+<img width = '300' height = '200' src = 'github.com/Tosin8/Tosin8/assets/23019300/60e20937-0452-4c19-9dcf-9d2fde22c305' alt = 'coding'/>
 
 
 <hr>
