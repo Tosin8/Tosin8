@@ -1,6 +1,6 @@
-Hi there, 👋 
+Hi there, 👋 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" >
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" >
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+result+driven+person;I+am+a+good+Team+Player;I+am+focus+driven)](https://git.io/typing-svg)
 
 I'm Tosin Ezekiel, a Flutter developer during the day. 
