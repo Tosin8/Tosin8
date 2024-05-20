@@ -11,8 +11,8 @@ I'm the mobile app developer in flutter creating building premium mobile apps fo
 <hr>
 <b> A quick introduction </br>
      
-🔭 Content Creator at Vertical Motions, 
-    Podcaster at Think Vertical. 
+🔭 - Content Creator at Vertical Motions, 
+   -  Podcaster at Think Vertical. 
 - 🌱 
 - ⚡ Fun fact: Niche on AR and IOT , love people and faith in the creator.  
 
