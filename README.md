@@ -3,7 +3,7 @@ Hi there, <img src="https://user-images.githubusercontent.com/74038190/214644152
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+result+driven+person;I+am+a+good+Team+Player;I+am+focus+driven)](https://git.io/typing-svg)
 
-I'm a Flutter developer who builds cross-platform mobile apps using Dart and Flutter. With a focus on creating engaging user experiences, I stay updated with the latest trends in mobile development for delivering high-quality solutions.
+I'm the mobile app developer in flutter creating building premium mobile apps for B2C clients whose standard is in delivering high quality solutions for their customers. 
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 <br><br>
@@ -11,9 +11,10 @@ I'm a Flutter developer who builds cross-platform mobile apps using Dart and Flu
 <hr>
 <b> A quick introduction </br>
      
-🔭 I’m currently intensely focused on building digital products with flutter framework mastery
+🔭 Content Creator at Vertical Motions, 
+    Podcaster at Think Vertical. 
 - 🌱 
-- ⚡ Fun fact: I love science and meeting people. 
+- ⚡ Fun fact: Niche on AR and IOT , love people and faith in the creator.  
 
 <hr> 
 
