@@ -35,6 +35,8 @@ I'm the mobile app developer in flutter creating building premium mobile apps fo
    ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
   
      ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Tosin8.repoName%29)
+  
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Tosin8)
 
     
    Softwares <br>
