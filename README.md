@@ -33,7 +33,9 @@ I'm the mobile app developer in flutter creating building premium mobile apps fo
   <!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  --> <br>
     <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) -->
    ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-     
+  
+     ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Tosin8.repoName%29)
+
     
    Softwares <br>
    
