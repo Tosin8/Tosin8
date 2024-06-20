@@ -27,12 +27,9 @@ I'm the mobile app developer in flutter, who premium mobile apps for B2C clients
      <br>
      Languages, Framework, Tools I work with <br>
      
-   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) <br>
-   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   <!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  --> <br>
-     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-   ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
   
   
 <!--![Overall Stats](https://github-readme-stats.vercel.app/api?username=Tosin8)-->
@@ -40,7 +37,6 @@ I'm the mobile app developer in flutter, who premium mobile apps for B2C clients
     
    Softwares <br>
    
-   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
    ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
   
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
@@ -52,16 +48,14 @@ I'm the mobile app developer in flutter, who premium mobile apps for B2C clients
      
    Education <br>
      
-   	![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-    ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+   ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
      
    Forums <br>
      
-    ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+ ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
     
   
-   <br> 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Tosin8&theme=highcontrast&show_icons=true&count_private=true)  
+   <br> ![Github stats](https://github-readme-stats.vercel.app/api?username=Tosin8&theme=highcontrast&show_icons=true&count_private=true)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tosin8&theme=highcontrast)] (https://git.io/streak-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)        
 [![Tosin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tosin8&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/tosin8/github-readme-activity-graph)
