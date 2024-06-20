@@ -36,7 +36,7 @@ I'm the mobile app developer in flutter creating building premium mobile apps fo
   
      ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Tosin8.repoName%29)
   
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Tosin8)
+<!--![Overall Stats](https://github-readme-stats.vercel.app/api?username=Tosin8)-->
 
     
    Softwares <br>
