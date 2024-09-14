@@ -12,7 +12,7 @@ I'm the mobile app developer in flutter, who premium mobile apps for B2C clients
 <b> A quick introduction </br>
      
 🔭 - Content Creator at Vertical Motions, 
-   -  Podcaster at Think Vertical. 
+   
 - 🌱 
 - ⚡ Fun fact: Niche on AR and IOT , love people and faith in the creator.  
 
@@ -52,6 +52,7 @@ I'm the mobile app developer in flutter, who premium mobile apps for B2C clients
    Forums <br>
      
  ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+ [![roadmap.sh](https://roadmap.sh/card/wide/66a96e2ac150b2e2db8c654a?variant=dark&roadmaps=mongodb%2Cflutter%2Capi-design)](https://roadmap.sh)
     
   
 
